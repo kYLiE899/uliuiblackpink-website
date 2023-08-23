@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<title>More about BLACKPINK</title>
+<body background="bg5.jpg">
+</body>
+</html>
+<img src="file:///D:/My%20own%20website/bbc.jpg">
+<img src="file:///D:/My%20own%20website/bp.jpg">
+<img src="file:///D:/My%20own%20website/bp6.jpg" width="300" height="200">
+<img src="file:///D:/My%20own%20website/images%20(1).jpg">
+<p><strong>Artists</strong></p>
+<hr>
+<footer>
+<li>Blackpink is a korean pop music girl group created by YG entertaiment.</li>
+<li>Blackpink was debuted in 2016.</li>
+<li>Blackpink has 4 band memebers: Jisoo Kim, Jennie Kim, Rose Park, La Lisa</li>
+<li>Blackpink had archieved so many goals and won awards.</li>
+<li>Blackpink has over 90M subsribers in youtube and many streamers on many music platforms.</li>
+<li>Blackpink's members has each solo debut.</li>
+</body>

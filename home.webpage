@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<title>More about BLACKPINK</title>
+<body background="bg5.jpg">
+</body>
+</html>
+<head><title>Music - World of Music</title></head>
+<font size="5" face="arial" color="white">
+<head>
+<header>
+<img src="Logo_of_Blackpink.jpg" width="800">
+<img src="bp.jpg" width="400">
+<img src="bp2.jpg" width="400">
+<img src="bp3.jpg" width="300">
+<img src="pinkocean.jpg" width="500">
+</header>
+<hr>
+<nav> 
+<table cellspacing="5" cellpadding="5">
+<tr>H
+<td><a href="index.html">Home</a></td>
+<td><a href="Artists.html">Artists</a></td>
+<td><a href="Artists.html">Jisoo</a></td>
+<td><a href="Artists.html">Jennie</a></td>
+<td><a href="Artists.html">Rose</a></td>
+<td><a href="Artists.html">Lisa</a></td>
+<td><a href="Fav Songs.html">Fav Songs</a></td>
+<td><a href="Artists.html">Awards</a></td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>Welcome to World to Music!</h2>
+
+<p>
+World of music- Music is a must thing in our lives. So do I! Here, in this website, I want to share some of my fav artists and song.
+</p>
+</body>
+</html>
